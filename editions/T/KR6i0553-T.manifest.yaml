@@ -1,0 +1,102 @@
+canonical_identifier: bkk:krp/KR6i0553/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0553/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大方廣圓覺修多羅了義經略疏
+  identifiers:
+    krp: KR6i0553
+    cbeta: T39n1795
+    cbeta_old_id: T39n1795
+    authorityid: CA0003877
+    json_key: T1795
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T39/T39n1795.xml
+    old_id: T39n1795
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0553_000-T.yaml, hash: 'sha256:5488c03906c50bb190692568ce5c11e2d0ea9b3742768b52fa4a06434d513f08'}
+  - {seq: 2, filename: KR6i0553_002-T.yaml, hash: 'sha256:2083dcca7e1894e075e22745f9b79d7d965f75913c7d6df15545e8f1756fe883'}
+  - {seq: 3, filename: KR6i0553_003-T.yaml, hash: 'sha256:e6edea3c3f0b931b4405bb543ac616995c76897208b437c59898779f0cdd151b'}
+  - {seq: 4, filename: KR6i0553_004-T.yaml, hash: 'sha256:ed8d57cda84f2fac62c658c0f8e5324e04874150308b8df3be113cd25523260e'}
+  - {seq: 5, filename: KR6i0553_005-T.yaml, hash: 'sha256:ec751d778f8c168da3de3c61f0a163e1cb9c130936cae3975421c8b3d199ff4b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0553_000-T.markers.yaml, hash: 'sha256:e438554c1378265c32726157e8c362a50ad71ebfd1572d17c5633d61d43eb50b'}
+  - {seq: 2, role: markers, filename: assets/KR6i0553_002-T.markers.yaml, hash: 'sha256:40fc2cfe33aaa9900dd997bea37fb3a54a82787376c29806197071fd16c655f0'}
+  - {seq: 3, role: markers, filename: assets/KR6i0553_003-T.markers.yaml, hash: 'sha256:c1f7a217963d43d5cb27caab440da9a4374f4cab3a5c65b30a9294f8a8129707'}
+  - {seq: 4, role: markers, filename: assets/KR6i0553_004-T.markers.yaml, hash: 'sha256:ac20b3b24be528168bd187067c5ab0499dc697bfacdedb3af01ca08e32890021'}
+  - {seq: 5, role: markers, filename: assets/KR6i0553_005-T.markers.yaml, hash: 'sha256:69273433d790ac18aed77ea75232be9bf9ef2cef2a277e57acd31163b68ea4f7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0553_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大方廣圓覺修多羅了義經略疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0553_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 15189
+  label: '大方廣圓覺修多羅了義經略疏
+
+    註卷上之一'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0553_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 18359
+  label: '大方廣圓覺修多羅了義經略疏
+
+    卷上二'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0553_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 15782
+  label: '大方廣圓覺修多羅了義經略疏
+
+    注卷下一'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0553_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 19037
+  label: '大方廣圓覺脩多羅了義經略疏
+
+    卷下二'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0553_T_002b-mulu-1
+    span:
+    - body
+    - 17052
+    - 17052
+  label: 圭峰定慧禪師遙稟清涼國師書
+  type: mulu
+  level: 1
+hash: sha256:a6e32faccc98491292185e0800a43852dbb0e1b7059f1594d0d67d32d2fc7cfb
